@@ -64,6 +64,7 @@ form >div.campo{
     padding-bottom: 5px;
     border-radius: 8px;
     margin: 5px 0px;
+   
 }
 div.campo > label {
     display: none;
@@ -82,11 +83,12 @@ div.campo > input {
     height: 25px;
     border: 0px;
     border-radius: 8px;
-  
-    padding-bottom: 10px;
-    padding-left: 40px;
+    margin-top: 5px;
+    
+    padding-left: 8px;
     transform: translateY(-4px);
 }
+
 
 form > input[type=submit] {
     display: block;
